@@ -1,6 +1,7 @@
 # Oxford_pet_detect_app
 Oxford_pet_detect_app
 
+[trained_model: https://drive.google.com/drive/folders/1Q43kQ3qhr8BeSPWK3QqqyAGhAESLgIA9?usp=sharing]
 
 
 This is an object detection app which detects 37 categories of pets as per oxford Pet dataset (https://www.robots.ox.ac.uk/~vgg/data/pets/)
